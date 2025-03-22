@@ -50,7 +50,7 @@ class _FBottomBarState extends State<FBottomBar> {
             FontAwesome.user,
             size: 20,
           ),
-          label: "LOGIN",
+          label: "Account",
         ),
       ],
     );
